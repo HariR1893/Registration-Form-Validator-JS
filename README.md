@@ -1,7 +1,7 @@
 
-# TECHNOHACKS
+# TECHNOHACKS-REGISTRATION-PAGE
 
-## TASK 6 REGISTRATION
+## TASK 6 REGISTRATION PAGE
 
 This repository contains a simple registration for an web application project developed using HTML, CSS, and JavaScript, created as part of my internship at TECHNOHACKS
 
